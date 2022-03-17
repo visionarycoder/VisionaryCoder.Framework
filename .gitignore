@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/VisionaryCoder.Framework/.vs/VisionaryCoder.Framework
+/VisionaryCoder.Framework/obj
+/VisionaryCoder.Framework.Tests/obj
+/VisionaryCoder.Framework.Tests/bin/Debug/.netcoreapp,version=v6.0
